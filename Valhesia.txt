@@ -1,2 +1,3 @@
 VH1.zip|mods\
 VH2.zip|config\
+VH3.zip|mods\
