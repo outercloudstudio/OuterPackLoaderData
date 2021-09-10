@@ -1,3 +1,5 @@
 VH1.zip|mods\
-VH2.zip|config\
+VH2.zip|mods\
 VH3.zip|mods\
+VH4.zip|mods\
+VH5.zip|mods\
